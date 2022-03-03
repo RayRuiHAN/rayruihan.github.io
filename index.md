@@ -1,4 +1,6 @@
-## Welcome to 韩睿 Ray(Rui) HAN's web-page
+## 韩睿 Ray(Rui) HAN's web-page
+
+The website is under construction 网站建设中
 
 You can use the [editor on GitHub](https://github.com/RayRuiHAN/rayruihan.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
