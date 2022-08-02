@@ -1,10 +1,7 @@
 ## 韩睿 Ray(Rui) HAN's web-page
 
 The website is under construction
-During this period, please call +86 18150161317 directly for any details (day time GMT +8)
-
-网站建设中
-任何细节请直接联系+86 181-5016-1317（GMT+8）
+Please call +1 (667)-677-0007 directly for any details (day time GMT -4)
 
 You can use the [editor on GitHub](https://github.com/RayRuiHAN/rayruihan.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
