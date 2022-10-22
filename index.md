@@ -1,7 +1,6 @@
 ## 韩睿 Ray(Rui) HAN's web-page
 
-The website is under construction.
-Please call contact me for any details (Estern Time)
+Sorry, the page is being updated. Please contact me via email or cell phone.
 
 ### Markdown
 
