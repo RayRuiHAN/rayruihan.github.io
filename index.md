@@ -1,12 +1,12 @@
-## Ray's web-page
+# Ray's web-page
 
 Sorry, the web content is not yet complete. Please contact me via email or cell phone.
 
-### Learn about my personality
+## Learn about my personality
 _Last updated on 30 October 2022_
 
-#### through the SHL OPQ32 Candidate Report
-##### Relationships with People
+### through the SHL OPQ32 Candidate Report
+#### Relationships with People
 **Influence**: You see yourself as someone who enjoys taking charge of people and leading a team. However, you are as happy as
 most people to sell ideas and negotiate. This suggests that you are inclined to seek to influence people when you feel
 it is appropriate. When it comes to expressing your views, you are less likely to express strong views than others and
@@ -22,7 +22,7 @@ make allowances and provide support for people at work in times of personal cris
 slightly prefer to consult other people first rather than making a decision without reference to others. However, you
 appear to have a slight tendency to talk openly about your successes.
 
-##### Thinking Style
+#### Thinking Style
 **Analysis**: You very much enjoy working with facts and figures and analysing numerical information. You are very likely to spot
 errors or difficulties in arguments, suggesting a critical approach to work. In addition, you are moderately interested in
 the motives which underlie people's behaviour.
@@ -39,7 +39,7 @@ prepared in most circumstances. You prefer to strike a balance between seeing de
 getting tasks finished on time. You also describe yourself as neither sticking to rules rigidly nor consciously prepared
 to break them.
 
-##### Feelings and Emotions
+#### Feelings and Emotions
 **Emotion**: You may find you are moderately anxious, neither generally feeling particularly tense nor totally calm and collected on
 a day-to-day basis. You also tend to remain fairly calm before important events. You tend to be a little more prepared
 than others to put criticism in perspective or ignore it completely. In terms of optimism and pessimism your outlook is
