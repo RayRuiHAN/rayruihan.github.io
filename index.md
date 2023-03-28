@@ -1,6 +1,19 @@
 # Ray's web-page
 
-Sorry, the web content is not yet complete. Please contact me via email or cell phone.
+
+**NOTE!! WEB CONTENT WIP**
+
+
+## BU.520.710.82.SP23 Big Data Machine Learning
+
+Tuesday Session Team C: Shirao Song, Rui Han, Xinwei Wang. 
+
+6 minutes for presentation, and then 4 minutes for QA.
+
+Our files will be posted here:
+
+* TBA
+
 
 ## Learn about my personality
 _Last updated on 30 October 2022_
