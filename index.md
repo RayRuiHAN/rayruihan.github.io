@@ -12,7 +12,7 @@ Tuesday Session Team C: Shirao Song, Rui Han, Xinwei Wang.
 
 Our files will be posted here:
 
-* TBA
+* [Team 3 Slides](https://docs.google.com/presentation/d/1UlPMPtbcAPM_qcd-hD5NdC80eeWfwufX/edit?usp=share_link&ouid=104035813311192672622&rtpof=true&sd=true)
 
 
 ## Learn about my personality
