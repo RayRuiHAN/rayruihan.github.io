@@ -3,6 +3,11 @@
 
 **NOTE!! WEB CONTENT WIP**
 
+## BU.520.710.82.SP23 Big Data Machine Learning
+
+Wednesday Session Team Generosity: Chenyu Zhao, Kaizhou Yin, Rui Han, Yihang Chen, Zhuonan Li. 
+
+* [Team Generosity Slides](https://docs.google.com/presentation/d/1tUVspRJ_inF2Mi8ZlF-q_7w76d-n-niBtfHs0H5nZO8/edit?usp=sharing)
 
 ## BU.520.710.82.SP23 Big Data Machine Learning
 
