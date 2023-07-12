@@ -3,7 +3,7 @@
 
 **NOTE!! WEB CONTENT WIP**
 
-## BU.520.710.82.SP23 Big Data Machine Learning
+## BU.131.601.F6.SU23 Business Leadership and Human Values
 
 Wednesday Session Team Generosity: Chenyu Zhao, Kaizhou Yin, Rui Han, Yihang Chen, Zhuonan Li. 
 
